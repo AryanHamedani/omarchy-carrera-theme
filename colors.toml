@@ -1,0 +1,40 @@
+# Carrera: a Porsche 911 night-drive palette.
+# Graphite dash, chalk-white dial numerals, and Guards Red for the
+# needle and the full-width tail-light bar. ANSI colours are factory paints.
+mode = "dark"
+
+accent = "#e8323c"            # Guards Red: rev needle, focus, cursor
+cursor = "#e8323c"
+selection = "#2a2d33"         # dash trim
+selection_background = "#2a2d33"
+selection_foreground = "#f3f0e9"
+muted = "#6b6f78"             # unlit gauge markings
+
+background = "#111214"        # graphite dashboard at night
+dark_background = "#0c0d0e"
+darker_background = "#08090a"
+lighter_background = "#1b1d21"
+
+foreground = "#d9d5cc"        # Chalk: warm white, easy on the eyes
+dark_foreground = "#7b7f87"   # GT Silver in shadow
+light_foreground = "#b8b5ad"
+bright_foreground = "#f3f0e9"
+
+hyprland_active_border = "rgba(e8323cee) rgba(8f0f18ee) 90deg"
+hyprland_inactive_border = "rgba(2a2d33cc)"
+
+red = "#e5484d"               # Guards Red (text-weight)
+orange = "#f2803a"            # Lava Orange
+yellow = "#f2c230"            # Racing Yellow
+green = "#93c25e"             # Python Green
+cyan = "#2fb5d6"              # Miami Blue
+blue = "#6a97da"              # Gentian Blue
+magenta = "#d672a2"           # Ruby Star
+brown = "#b07a4f"             # Cognac leather
+
+bright_red = "#ff6e6a"
+bright_yellow = "#ffd866"
+bright_green = "#b0d983"
+bright_cyan = "#6fd3ec"
+bright_blue = "#93b6ec"
+bright_magenta = "#eb9cc2"
