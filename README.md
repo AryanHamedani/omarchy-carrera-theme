@@ -38,11 +38,13 @@ Every colour is named after a 911 paint or cabin detail. All text colours reach 
 ![Carrera wallpapers](docs/wallpapers.jpg)
 
 Six night scenes, all keyed on the red tail light. Cycle them with `omarchy theme bg next`.
+Four have an intro that plays once when the theme or wallpaper is set, then settles on the
+still (turn intros off with `omarchy theme bg intro disable`):
 
-1. Flyline studio
-2. Alpine blue hour
-3. Air-cooled garage
-4. Headlight in the rain
+1. Flyline studio: the rim light sweeps along the roofline, tail light first
+2. Alpine blue hour: a slow push in out of the dark
+3. Air-cooled garage: the overhead tube flickers on
+4. Headlight in the rain: a focus pull from soft to sharp
 5. Parking deck
 6. Coastal light trails
 
@@ -55,7 +57,8 @@ GNOME apps and more. On top of that, Carrera ships:
 - **btop**: graphs that sweep like a tachometer, Python Green → Racing Yellow → Guards Red.
 - **Window borders**: a tail-light gradient on the focused window.
 - **Icons**: Yaru red.
-- **Boot unlock screen**: a Carrera wordmark, via **Style → Unlock** in the Omarchy menu.
+- **Boot unlock screen**: the Omarchy wordmark in Guards Red, via **Style → Unlock** in the
+  Omarchy menu.
 
 ### Extras for your own copy
 
